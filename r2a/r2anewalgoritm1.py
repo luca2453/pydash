@@ -1,5 +1,4 @@
 from r2a.ir2a import *
-import requests
 from player.parser import *
 from player.player import *
 import time
